@@ -2,6 +2,8 @@
 
 Тестовое задание для JS-разработчиков.
 
+https://bagart.github.io/test_exchange_monitor/
+
 ## Описание
 
 Нужно разработать простую таблицу котировок для криптовалютной биржи [Bitcoin.com](https://exchange.bitcoin.com/) используя eё публичный [API](https://api.exchange.bitcoin.com/).
